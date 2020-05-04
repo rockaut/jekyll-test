@@ -112,8 +112,10 @@ Until then you best way might be to split the execution in separate plays.
   collections:
     - rockaut.collectionB
   roles:
-    - rockaut.collectionB.install 
+    - rockaut.collectionB.install
 ```
+
+Which is now how we wanted it in the first place:
 
 ```console
 PLAY [localhost] *******************************************************************************************************
