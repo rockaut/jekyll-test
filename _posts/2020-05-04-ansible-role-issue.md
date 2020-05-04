@@ -9,7 +9,7 @@ readtime: true
 ---
 
 Over the weekend I stumbled upon a pretty bad issue in Ansible 2.9 with roles in collections.
-I contacted Jeff Geerling (@geerlingguy) as the allround oracle and, as I forgot about it, he today opened an Issue for it: __[see Github Issue](https://github.com/ansible/ansible/issues/69307)__.
+I contacted Jeff Geerling ([@geerlingguy](https://twitter.com/geerlingguy)) as the allround oracle and, as I forgot about it, he today opened an Issue for it: __[see Github Issue](https://github.com/ansible/ansible/issues/69307)__.
 
 Basically with Ansible 2.9 if you have collections with same named roles (for example 'install') which you include you have to work around the issue or Ansible fails in different ways.
 
