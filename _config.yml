@@ -8,8 +8,8 @@ author: Markus Fischbacher
 navbar-links:
   Root: "https://fischbacher.rocks/jekyll-test/"
   Tags: "/tags"
-  About me: "/pages/about.md"
-  Privacy: "/pages/privacy.md"
+  About me: "/pages/about"
+  Privacy: "/pages/privacy"
 
 # --- Logo --- #
 
