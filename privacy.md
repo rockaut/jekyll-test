@@ -5,8 +5,8 @@ subtitle: Respect
 ---
 
 fischbacher.rocks is a privately owned and operated page run by Markus Fischbacher.
-It is hosted on [Github](https://www.github.com) - you can find their own policy here [https://github.com/site/privacy](https://github.com/site/privacy).
-Based on Jekyll it just uses static HTML/JavaScript files and nothing else server side. All implemented services are tuned for GDPR as much as possible from me.
+It is hosted on [Github](https://www.github.com) - you can find their own policy here [https://github.com/site/privacy](https://github.com/site/privacy). The domain is routed through cloudflare - their policy can be found here [https://www.cloudflare.com/gdpr/introduction/](https://www.cloudflare.com/gdpr/introduction/).
+Based on Jekyll it only uses static HTML/JavaScript files and nothing else server side. All implemented services are tuned for GDPR as much as possible from me.
 
 You may always browse the [sourcecode directly](https://github.com/rockaut/rockaut.github.io) and please feel free to report any issues.
 
