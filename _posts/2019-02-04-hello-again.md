@@ -3,6 +3,7 @@ title: "Hello Again"
 date: 2019-02-04T14:48:40+01:00
 categories: ["ramblings"]
 tags: ["GitHub", "GitHub Pages", "Hugo"]
+readtime: true
 ---
 
 As I'm in an active job shift again, I had to move my domain and blog. Luckily I haven't had much ... or like any ... real content online so I decided to switch completely to [GitHub Pages](https://pages.github.com/).

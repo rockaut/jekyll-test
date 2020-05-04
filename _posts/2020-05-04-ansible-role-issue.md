@@ -5,7 +5,7 @@ subtitle: "*sing* You know it's bad ..."
 date: 2020-05-04T18:10:44+02:00
 categories: ["favorite-tools", "tools"]
 tags: ["Tools", "Favorite Tools", "Ansible", "Open Source"]
-#cover-img: /assets/img/path.jpg
+readtime: true
 ---
 
 Over the weekend I stumbled upon a pretty bad issue in Ansible 2.9 with roles in collections.

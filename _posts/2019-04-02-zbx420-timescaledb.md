@@ -3,6 +3,7 @@ title: "Zabbix 4.2 and Timescaledb"
 date: 2019-04-02T16:12:44+02:00
 categories: ["favorite-tools", "tools"]
 tags: ["Tools", "Favorite Tools", "Zabbix", "Monitoring", "Timeseries", "Timescale", "Open Source"]
+readtime: true
 ---
 
 Today Zabbix released their Version 4.2 into the wild with a great set of new features. There's a good overview on [Zabbix own site](https://www.zabbix.com/whats_new_4_2) but be sure to also check the ["What's new in Zabbix 4.2"](https://www.zabbix.com/documentation/4.2/manual/introduction/whatsnew420) section in the documentation as it's more complete!

@@ -3,6 +3,7 @@ title: "Favorite Tools - OpenFaaS"
 date: 2019-02-05T14:48:40+01:00
 categories: ["favorite-tools", "tools"]
 tags: ["Tools", "Favorite Tools", "OpenFaaS", "FaaS", "Open Source"]
+readtime: true
 ---
 
 "The mission of OpenFaaS ® is to Make Serverless Functions Simple. It can be run on any cloud through the use of portable Docker containers without the fear of getting locked-in or having to manage complex infrastructure."
