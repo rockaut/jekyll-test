@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Sorry no dates!
 ---
 
 First things first my name is Markus Fischbacher and I'm living near Salzburg, Austria.
